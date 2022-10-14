@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    margin-bottom: 30px;
+    text-shadow: 0px 10px 10px gray;
+}
+dt{
+    font-size: 40px;
+    text-decoration: underline;
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 0px 10px 10px gray;
+}
+dd{
+    font-size: 20px;
+    color: black;
+   
+    
+}

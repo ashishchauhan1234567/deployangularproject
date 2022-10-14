@@ -1,0 +1,76 @@
+
+.foodbox 
+{
+    padding: 10px 10px;
+} 
+.foodbox img
+{
+    box-shadow: 0px 0px 5px 5px grey; 
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.foodbox img:hover
+{
+    box-shadow: 0px 0px 10px 10px grey; 
+}
+.foodbox h1 
+{
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.buybtn
+{
+
+    color: #000;
+   background-color: aqua;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px 5px grey; 
+}
+.buybtn:hover{
+    background-color: green;
+}
+
+
+.stepBox 
+{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,31,136,1) 0%, rgba(128,8,8,0.5466561624649859) 0%, rgba(9,9,121,0.3309698879551821) 18%, rgba(4,191,158,1) 94%, rgba(28,219,223,1) 100%, rgba(0,212,255,1) 100%);
+    padding: 30px 30px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 5px 5px grey; 
+}
+.stepBox:hover {
+    box-shadow: 0px 0px 20px 20px grey;
+  
+
+}
+.highlight{
+    color: red;
+    font-size: 40px;
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: 0px 10px 10px gray;
+}
+
+.stepBox h1 
+{
+    font-size: 50px;
+    font-weight: bold;
+   color: white;
+  
+}
+.stepBox p 
+{
+    font-size: 20px;
+    font-style: italic;
+    color: #fff;
+   
+}
